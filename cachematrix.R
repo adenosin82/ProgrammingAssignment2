@@ -1,8 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
-
 ## returns an object wich contains methods as a list.
 ## these methods allow to set/get the object and one of its attributed (inverse matrix)
 
